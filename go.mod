@@ -1,3 +1,3 @@
-module github.com/janstuemmel/csgo-log
+module github.com/singhpk89/csgo-log
 
-go 1.13
+go 1.0
